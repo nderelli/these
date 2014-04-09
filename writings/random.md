@@ -146,6 +146,7 @@ Entire student's lives are spent in education, I'm asking to reconsider what we'
 ------
 
 A 2011 study estimated that parenting (e.g. maternal sensitivity, reading, extracurricular activities, setting expectations) explains 40 percent of the cognitive gap between children at age four -- more than any other factor.
+
 [The Atlantic](http://www.theatlantic.com/business/archive/2013/09/can-smart-economics-turn-us-into-better-parents/279695/)
 
 Cohabitation and the Uneven Retreat from Marriage in the U.S., 1950-2010
