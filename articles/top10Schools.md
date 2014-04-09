@@ -1,4 +1,9 @@
+---
+title: Top 10 Doctoral Programs in Education
+
+---
 # Top 10 Doctoral Programs in Education
+
 [US News & World Report](http://www.usnews.com/education/best-graduate-schools/articles/2013/03/06/2014-best-graduate-schools-preview-top-10-education-schools)
 
 - Vanderbilt University (Peabody) (TN)
