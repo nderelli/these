@@ -4,7 +4,6 @@ type: "speech"
 date: 2008-06-05
 ---
 
-
 President Faust, members of the Harvard Corporation and the Board of Overseers, members of the faculty, proud parents, and, above all, graduates.
 
 The first thing I would like to say is ‘thank you.’ Not only has Harvard given me an extraordinary honour, but the weeks of fear and nausea I have endured at the thought of giving this commencement address have made me lose weight. A win-win situation! Now all I have to do is take deep breaths, squint at the red banners and convince myself that I am at the world’s largest Gryffindor reunion.
